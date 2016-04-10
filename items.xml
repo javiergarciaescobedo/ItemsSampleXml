@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<items>
+    <item>
+        <id>1</id>
+        <astring>uno</astring>
+        <anumber>111</anumber>
+        <adate>2016-04-10T22:30:05.591+02:00</adate>
+    </item>
+    <item>
+        <id>2</id>
+        <astring>dos</astring>
+        <anumber>222</anumber>
+        <adate>2016-04-10T22:30:05.597+02:00</adate>
+    </item>
+</items>
