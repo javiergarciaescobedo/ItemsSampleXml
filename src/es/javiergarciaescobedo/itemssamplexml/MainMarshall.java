@@ -17,7 +17,6 @@ public class MainMarshall {
         // Crear un objeto que permita almacenar la lista de objetos, asignando
         //  una lista de tipo ArrayList que estará vacía inicialmente
         Items items = new Items();
-        items.setItemsList(new ArrayList());
         
         // Crear algunos objetos de muestra
         Item item;
